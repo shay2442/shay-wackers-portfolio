@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shay-wackers-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/shay-wackers-portfolio/static/js/main.77b4dc01.js",
+    "static/js/787.f679c2c6.chunk.js": "/shay-wackers-portfolio/static/js/787.f679c2c6.chunk.js",
+    "index.html": "/shay-wackers-portfolio/index.html",
+    "main.073c9b0a.css.map": "/shay-wackers-portfolio/static/css/main.073c9b0a.css.map",
+    "main.77b4dc01.js.map": "/shay-wackers-portfolio/static/js/main.77b4dc01.js.map",
+    "787.f679c2c6.chunk.js.map": "/shay-wackers-portfolio/static/js/787.f679c2c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.77b4dc01.js"
+  ]
+}
