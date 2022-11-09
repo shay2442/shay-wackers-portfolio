@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shay-wackers-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/shay-wackers-portfolio/static/js/main.77b4dc01.js",
+    "main.css": "/shay-wackers-portfolio/static/css/main.964fdded.css",
+    "main.js": "/shay-wackers-portfolio/static/js/main.a83cd08f.js",
     "static/js/787.f679c2c6.chunk.js": "/shay-wackers-portfolio/static/js/787.f679c2c6.chunk.js",
     "index.html": "/shay-wackers-portfolio/index.html",
-    "main.073c9b0a.css.map": "/shay-wackers-portfolio/static/css/main.073c9b0a.css.map",
-    "main.77b4dc01.js.map": "/shay-wackers-portfolio/static/js/main.77b4dc01.js.map",
+    "main.964fdded.css.map": "/shay-wackers-portfolio/static/css/main.964fdded.css.map",
+    "main.a83cd08f.js.map": "/shay-wackers-portfolio/static/js/main.a83cd08f.js.map",
     "787.f679c2c6.chunk.js.map": "/shay-wackers-portfolio/static/js/787.f679c2c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.77b4dc01.js"
+    "static/css/main.964fdded.css",
+    "static/js/main.a83cd08f.js"
   ]
 }
